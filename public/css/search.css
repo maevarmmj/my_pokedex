@@ -1,0 +1,36 @@
+
+#tableAddPkmn {
+    text-align : center;
+    font-family: 'Pokemon Solid','Courier New', Helvetica, serif;
+    font-size: 40px;
+    background: #ffc3b0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 0px #ffc3b0, 3px 3px 1px rgba(77, 39, 39, 0.5);
+
+}
+
+#formAddPokemon{
+    font-family: 'Pokemon Classic','Courier New', Helvetica, serif;
+    font-size : 10px;
+
+}
+
+
+select{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+}
+
+
+input[type="text"]{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+    text-align: center;
+}
+
+
+input[type="submit"]{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+}

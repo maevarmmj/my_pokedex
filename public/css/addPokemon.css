@@ -1,0 +1,125 @@
+p{
+    font-family: 'Pokemon Classic','Courier New', Helvetica, serif;
+    font-size : 10px;
+    color : #a96851;
+}
+
+#tableAddPkmn {
+    text-align : center;
+    font-family: 'Pokemon Solid','Courier New', Helvetica, serif;
+    font-size: 40px;
+    background: #ffc3b0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 0px #ffc3b0, 3px 3px 1px rgba(77, 39, 39, 0.5);
+
+}
+
+#formAddPokemon{
+    font-family: 'Pokemon Classic','Courier New', Helvetica, serif;
+    font-size : 10px;
+}
+
+#tableauAddPkmn{
+    border-spacing: 10px 10px;
+    border-radius : 10px 10px 10px 10px;
+}
+
+
+input[type="submit"]{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+}
+input[type="number"]{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+}
+
+
+input[type="text"]{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+}
+
+select{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+}
+textarea{
+    font-family: 'Pokemon Classic',calibri,serif;
+    font-size:10px;
+    text-align : center;
+}
+
+
+.type-eau {
+    color: #7dace8;
+}
+
+.type-feu {
+    color: #eb6f46;
+}
+
+.type-plante {
+    color: #62cc70;
+}
+
+.type-spectre {
+    color: #423252;
+}
+
+.type-tenebre {
+    color: #3a2945;
+}
+
+.type-psy {
+    color: #f073be;
+}
+
+.type-glace {
+    color: #5ba4bd;
+}
+
+.type-insecte {
+    color: #8ae070;
+}
+
+.type-combat {
+    color: #804c3b;
+}
+
+.type-acier {
+    color: #91918e;
+}
+
+.type-roche {
+    color: #696969;
+}
+
+.type-fee {
+    color: #fa8cdd;
+}
+
+.type-normal {
+    color: #9c9484;
+}
+
+.type-poison {
+    color: #876eb8;
+}
+
+.type-sol {
+    color: #b09b6d;
+}
+
+.type-electrique {
+    color: #dec254;
+}
+
+.type-vol {
+    color: #76a7ab;
+}
+
+.type-dragon {
+    color: #2e3c85;
+}

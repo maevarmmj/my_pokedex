@@ -1,0 +1,91 @@
+header {
+    margin: 0;
+    padding: 0;
+    background-color: #ffdfd4;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+h3{
+    font-family: 'Pokemon Classic','Courier New', Helvetica, serif;
+    font-size : 15px;
+    color: rgba(98, 51, 51, 0.5);
+
+
+}
+html{
+    background-color: #ffffff;
+}
+
+
+nav{
+    margin-right: auto;
+    margin-left : auto;
+    display:flex;
+    justify-content: space-evenly;
+    font-size : 15px;
+}
+
+#banner{
+    background-color: #fff7e3;
+}
+
+#eseo:hover {
+    transform: scale(1.1);
+}
+
+#pokemon{
+    margin-left : auto;
+    margin-right: auto;
+    border : none;
+
+}
+
+
+body{
+    background: linear-gradient(#fff7e3, #fff7e3, #ffffff);
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#tabGabarit{
+    border-spacing: 50px 0;
+}
+
+#tab{
+    font-family: 'Pokemon Classic','Courier New', Helvetica, serif;
+    background-color: #ffc3b0;
+    border-radius : 10px 10px 10px 10px;
+    overflow : hidden;
+}
+#tab:hover {
+    transform: scale(1.2);
+}
+
+#text{
+    color: rgba(98, 51, 51, 0.5);
+    text-decoration:none;
+}
+
+#icon{
+    background-color: #ffdfd4;
+    border-left: 1px solid #ffdfd4;
+    border-bottom: 1px solid #ffdfd4;
+}
+
+#professeurChen{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+#professeurJuniper{
+    position: fixed;
+    bottom: 0;
+    right: -21%;
+}
+
+
