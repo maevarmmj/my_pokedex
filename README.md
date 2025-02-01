@@ -7,7 +7,7 @@
 </div>
 
 # About this project
-**NOT FINISHED -** Creation of a website in PHP/HTML based on the Pokemon franchise, management of a database in MySQL.\
+**NOT FINISHED -** Creation of a website in PHP/HTML based on the Pokemon franchise, with a management of a database in MySQL.\
 It was just fun to make!
 ## Build with:
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
