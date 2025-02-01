@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/maevarmmj/my_pokedex">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="public/img/pikachu.png" alt="Logo" width="80" height="80">
   </a>
   <h1 align="center">🖥 School Project 🖥</h1>
   <h3>My own Pokedex!!</h3>
